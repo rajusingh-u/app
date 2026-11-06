@@ -1,0 +1,6 @@
+{
+  "name": "OM MAGIC Inventory Management System",
+  "description": "Enterprise inventory, godown, stock transfer, and reporting ERP platform for OM MAGIC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
